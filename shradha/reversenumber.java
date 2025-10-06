@@ -18,7 +18,7 @@ public class reversenumber {
         if (n<0){
             rev =-rev;
         }
-
+        
 
         System.out.println(rev);
     }
